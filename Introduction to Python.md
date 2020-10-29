@@ -6,7 +6,7 @@ Estaremos viendo la sintaxis básica de Python, los principales tipos de datos y
 
 Las tres partes de esta sección son:
 
-*Parte 1: Introducción a Python y Hola Mundo*
+[Parte 1: Introducción a Python y Hola Mundo](#Parte 1: Introducción a Python)
 
 *Parte 2 - Variables, Tipos de datos* 
 
@@ -1127,9 +1127,9 @@ plt.show()
 
 ***Parte 7:  Primeros pasos en el mundo de los datos y como orientar mi carrera profesional*** 
 
-![](./images/DataScienceProcess.png)
+<img src="./images/DataScienceProcess.png"/> 
 
-<img src="./images/dataScienceOverlap.png" style="zoom: 50%;" />
+<img src="./images/dataScienceOverlap.png" width="600" height="600" />
 
 
 
