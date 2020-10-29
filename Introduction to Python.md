@@ -307,7 +307,7 @@ A menudo, se requiere más de una comparación. Las expresiones de comparación 
 
 Estas se comportan según las tablas de verdad.
 
-<img src="./images/TableAnd.png"/>               <img src="./images/TableOR.png"/>
+<img src="./images/TableAnd.png"/>               <img src="./images/TableOr.png"/>
 
 Tabla de Verdad de Conjunción                Tabla de Verdad de Disyunción
 
