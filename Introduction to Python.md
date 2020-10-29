@@ -6,23 +6,9 @@ Estaremos viendo la sintaxis básica de Python, los principales tipos de datos y
 
 Las tres partes de esta sección son:
 
-[Parte 1: Introducción a Python y Hola Mundo](#Parte 1: Introducción a Python)
+[TOC]
 
-*Parte 2 - Variables, Tipos de datos* 
-
-*Parte 3: Funciones* 
-
-*Parte 4:  Condicionales y Ciclos* 
-
-*Parte 5: Estructuras de datos: Listas, Tuplas, diccionarios* 
-
-*Parte 6: Numpy y Pandas*
-
-*Parte 7:  Primeros pasos en el mundo de los datos y como orientar mi carrera profesional* 
-
-
-
-***Parte 1: Introducción a Python***
+###### ***Parte 1: Introducción a Python***
 
 Python: https://www.python.org/
 
@@ -58,7 +44,7 @@ pip install virtualenv
 virtualenv -p="C:\Users\Fighter\.conda\envs\py36\python.exe" newEnv
 ```
 
-**Parte 2 -Tipos de datos en Python. Variables y asignaciones.**
+###### **Parte 2: Tipos de datos en Python. Variables y asignaciones.**
 
 Python es un lenguaje de programación interpretado. Hay dos formas de utilizar el intérprete: modos interactivo y script.
 
@@ -248,7 +234,7 @@ bool(' ')
 
  
 
-***Parte 3: Funciones*** 
+###### ***Parte 3: Funciones*** 
 
 Una función es una secuencia con nombre de declaraciones que realizan un cálculo. Las funciones nos permiten crear un bloque de declaraciones y hacer un programa más pequeño al eliminar el código repetitivo. Para definir una función, es necesario especificar el nombre y la secuencia de cálculo. El resultado se llama valor de retorno. Algunas funciones dan resultados. Otros realizan una acción (como imprimir), pero no devuelven un valor. Estos se conocen como funciones nulas.
 
@@ -271,7 +257,7 @@ def function_name(param_1, param_2,*arg,**kwargs):
 
 
 
-  ***Parte 4:  Condicionales y Ciclos*** 
+###### ***Parte 4:  Condicionales y Ciclos*** 
 
 **Condicionales**
 
@@ -447,7 +433,7 @@ Entonces, factorial (n-1) se llamará a sí mismo y el cálculo será n * (n-1) 
 
 Al final obtendremos n \ * n-1 \ * n-2 \ * ... \ * 2 \ * 1.
 
-***Parte 5: Estructuras de datos: Listas, Tuplas, diccionarios*** 
+###### ***Parte 5: Estructuras de datos: Listas, Tuplas, diccionarios*** 
 
 **Strings**
 
@@ -708,7 +694,7 @@ for clave,valor in dict.items():
     print(clave,'->', valor)
 ```
 
-***Parte 6: Numpy y Pandas***
+###### ***Parte 6: Numpy y Pandas***
 
 **NumPy.**
 
@@ -1125,11 +1111,11 @@ houses.plot(x = 'price, thousands', y = 'num of houses', kind='bar', color = 'bl
 plt.show()
 ```
 
-***Parte 7:  Primeros pasos en el mundo de los datos y como orientar mi carrera profesional*** 
+###### ***Parte 7:  Primeros pasos en el mundo de los datos y como orientar mi carrera profesional*** 
 
-<img src="./images/DataScienceProcess.png"/> 
+<img src="./images/dataScienceProcess.png"/> 
 
-<img src="./images/dataScienceOverlap.png" width="600" height="600" />
+<img src="./images/dataScienceOverlap.png" width="500" height="500" />
 
 
 
