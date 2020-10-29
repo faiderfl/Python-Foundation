@@ -4,9 +4,11 @@
 
 Estaremos viendo la sintaxis básica de Python, los principales tipos de datos y las colecciones de datos más utilizadas con ejemplos.
 
-Las tres partes de esta sección son:
+Estos son los temas que veremos a continuación:
 
-[TOC]
+[Parte 1: Introducción a Python](#parte-1:-introduccion-a-python)
+
+
 
 ###### ***Parte 1: Introducción a Python***
 
