@@ -1127,15 +1127,72 @@ houses.plot(x = 'price, thousands', y = 'num of houses', kind='bar', color = 'bl
 plt.show()
 ```
 
+
+
+Otros temas: 
+
+○Comprehensions 
+
+○ Lambda 
+
+○ Collections module 
+
+○ Map and Filter 
+
+○ *args and **kwargs 
+
+○ Inheritance 
+
+○ Advanced Class  
+
+○ Behaviour  
+
+○ PIP (Pypi) 
+
+○ Environments 
+
+○ Module Creation 
+
+○ Async 
+
+○ Decorators
+
+○ Frameworks
+
+○ Performance
+
+Resources: https://twitter.com/ayushi7rawat/status/1315651868891049984
+
+
+
 ## ***Parte 7:  Primeros pasos en el mundo de los datos y como orientar mi carrera profesional*** 
 
 <img src="./images/dataScienceProcess.png"/> 
 
 <img src="./images/dataScienceOverlap.png" width="500" height="500" />
 
+Topics
 
+1. Version control 
 
+2. SQL + NoSQL 
 
+3. Python y R
+4. Pandas/Dask
+5. Data structures 
+6. Prob & stats 
+7. ML/AI Algoritmos
+8. Parallel computing 
+9.  Graphql y REST API 
+10. Kubernetes + Airflow 
+11. Unit/integration tests
+12. Bash y Comandos Linux 
+13. Spark
+14. Matemáticas y Estadística
+15. Cloud Service(AWS/Azure/GCP)
+16. OOPs
+17. Big Data
+18. MLOps - AutoML
 
 
 
